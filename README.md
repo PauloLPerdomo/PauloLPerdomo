@@ -8,7 +8,7 @@
 
 ### Sobre
 
-Trabalho há três anos com dados no setor de benefícios e meios de pagamento, na área de Inteligência de Mercado da **Corpay**. Meu dia a dia é tirar relatório crítico da mão e colocar em pipeline: modelagem de dados de receita, procedures em PL/SQL, ETL e automação de bases que alimentam as áreas de negócio.
+Trabalho com dados no setor de benefícios e meios de pagamento, onde mantenho os pipelines de reconhecimento de receita da área de Inteligência de Mercado da **Corpay**. Meu dia a dia é tirar relatório crítico da mão e colocar em pipeline: modelagem de dados de receita, procedures em PL/SQL, ETL e automação de bases que alimentam as áreas de negócio.
 
 Gosto do lado menos visível do trabalho — entender por que um número não fecha, refatorar um processo que ninguém quer tocar, e deixar rodando sozinho no fim.
 
