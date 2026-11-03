@@ -1,23 +1,51 @@
-<h1 align="center">⚡ Olá, meu nome é Paulo ⚡</h1>
-<h3 align="center">Sou um analista de dados apaixonado por negócios, empreendedorismo e boas ideias 🌱</h3>
+<h1 align="center">Olá, eu sou o Paulo 👋</h1>
 
-- Atualmente estou trabalhando com Análise de dados [Portifólio Telecom](https://docs.google.com/spreadsheets/d/19DzICyGCrJKS6WdLnO8q8SyMJf4gPOYI/edit?usp=drive_link&ouid=112739832546038959309&rtpof=true&sd=true)
+<p align="center">
+  Analista de dados com foco em engenharia de dados — construindo pipelines que outras pessoas usam para decidir.
+</p>
 
+---
 
-- 🤝 Buscando uma oportunidade no mercado como [Analista de Dados Jr](https://www.linkedin.com/in/paulo-perdomo/)
+### Sobre
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://drive.google.com/drive/folders/1Mi8QHPBqIus82SwzPEP0YnU_yAAFt1_t?usp=drive_link](https://drive.google.com/drive/folders/1Mi8QHPBqIus82SwzPEP0YnU_yAAFt1_t?usp=drive_link)
+Trabalho há três anos com dados no setor de benefícios e meios de pagamento, na área de Inteligência de Mercado da **Corpay**. Meu dia a dia é tirar relatório crítico da mão e colocar em pipeline: modelagem de dados de receita, procedures em PL/SQL, ETL e automação de bases que alimentam as áreas de negócio.
 
-- 💬 Podemos conversar sobre **Excel, SQL, PowerBI, Python, Negócios, Comportamento Humano**
+Gosto do lado menos visível do trabalho — entender por que um número não fecha, refatorar um processo que ninguém quer tocar, e deixar rodando sozinho no fim.
 
-- 📫 Você pode me encontrar através do e-mail **paulole.perdomo@gmail.com**
+Hoje estou migrando essa bagagem para a stack moderna de dados: **PySpark, Delta Lake e arquitetura lakehouse**.
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/paulo-perdomo/](https://www.linkedin.com/in/paulo-perdomo/)
+### Em que estou trabalhando
+
+- 🔭 **[PySpark_Lakehouse_Medalhao](https://github.com/PauloLPerdomo/PySpark_Lakehouse_Medalhao)** — pipeline de reconhecimento de receita em arquitetura medalhão (bronze / silver / gold), com dados sintéticos
+- 🌱 Aprendendo PySpark, Delta Lake e Databricks
+- 💬 Posso falar sobre SQL, modelagem de dados, automação de relatórios e o funcionamento do mercado de benefícios
+
+### Stack
+
+**Dados e linguagens**
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=amazondynamodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+
+**Plataformas e ferramentas**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat&logo=delta&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho%20PDI-CC0000?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-perdomo/)
+[![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:paulole.perdomo@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulo-perdomo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulo-perdomo/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/pauloleandroperdomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pauloleandroperdomo" height="30" width="40" /></a>
 <a href="https://instagram.com/pl_perdomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pl_perdomo" height="30" width="40" /></a>
 </p>
 
